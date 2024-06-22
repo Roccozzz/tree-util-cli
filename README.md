@@ -1,5 +1,5 @@
 # tree-util-cli
-Print directory contents as tree.
+Command line utility to print directory contents as tree.
 ## Usage
 Print current dir as tree:
 ```cmd
