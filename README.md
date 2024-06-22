@@ -10,3 +10,4 @@ Print dir in absolute path as tree:
 tree-util-cli <absolute-path>
 ```
 
+![Example usage](cmd.png)
